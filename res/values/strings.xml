@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PokeJack</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="seekbar_from_touch">You want to bet </string>
+    <string name="seekbar_tracking_off">SeekbarTrackingOFf</string>
+    <string name="seekbar_tracking_on">SeekbarTrackingOn</string>
+</resources>
